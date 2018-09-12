@@ -1,0 +1,9 @@
+[INFO ] 2018-09-05 09:24:29.222 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-05 09:24:29.224 [main] Log4jDemo - This is error message
+[WARN ] 2018-09-05 09:24:29.225 [main] Log4jDemo - This is warning message
+[FATAL] 2018-09-05 09:24:29.225 [main] Log4jDemo - This is fatal message
+[TRACE] 2018-09-05 09:25:12.077 [main] Log4jDemo - This is a trace message
+[INFO ] 2018-09-05 09:25:12.080 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-05 09:25:12.080 [main] Log4jDemo - This is error message
+[WARN ] 2018-09-05 09:25:12.080 [main] Log4jDemo - This is warning message
+[FATAL] 2018-09-05 09:25:12.080 [main] Log4jDemo - This is fatal message
